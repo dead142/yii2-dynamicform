@@ -27,7 +27,7 @@
             "name": "Wanderson Bragança",
             "email": "wanderson.wbc@gmail.com",
             "homepage": "http://wbraganca.com"
-        },
+        }
     ],
     "require": {
         "yiisoft/yii2": "~2.0.5",
