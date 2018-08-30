@@ -1,5 +1,9 @@
 yii2-dynamicform
 ===================
+Исправлено
+==================
+1. kartik DateControl and DatePicker  https://github.com/wbraganca/yii2-dynamicform/issues/41
+2. kartik select2
 
 [![Latest Version](https://img.shields.io/github/release/wbraganca/yii2-dynamicform.svg?style=flat-square)](https://github.com/wbraganca/yii2-dynamicform/releases)
 [![Software License](http://img.shields.io/badge/license-BSD3-brightgreen.svg?style=flat-square)](LICENSE.md)

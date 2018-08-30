@@ -13,16 +13,21 @@
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "support": {
-        "issues": "https://github.com/wbraganca/yii2-dynamicform/issues",
-        "wiki": "https://github.com/wbraganca/yii2-dynamicform/wiki/",
-        "source": "https://github.com/wbraganca/yii2-dynamicform"
+        "issues": "https://github.com/dead142/yii2-dynamicform/issues",
+        "wiki": "https://github.com/dead142/yii2-dynamicform/wiki/",
+        "source": "https://github.com/dead142/yii2-dynamicform/yii2-dynamicform"
     },
     "authors": [
+        {
+            "name": "Berezhkov Andrei",
+            "email": "info@innovation-lab.ltd",
+            "homepage": "http://innovation-lab.ltd"
+        },
         {
             "name": "Wanderson Bragança",
             "email": "wanderson.wbc@gmail.com",
             "homepage": "http://wbraganca.com"
-        }
+        },
     ],
     "require": {
         "yiisoft/yii2": "~2.0.5",
